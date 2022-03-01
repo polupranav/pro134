@@ -1,0 +1,38 @@
+#soccer {
+    background-color: white;
+    border-radius: 100px;
+    font-size: large;
+}
+
+#baseball {
+    background-color: white;
+    border-radius: 100px;
+    font-size: large;
+}
+
+#book {
+    background-color: white;
+    border-radius: 100px;
+    font-size: large;
+}
+
+#football {
+    background-color: white;
+    border-radius: 100px;
+    font-size: large;
+}
+
+#xbox {
+    background-color: white;
+    border-radius: 10px;
+    font-size: large;
+}
+
+body {
+    background-size: cover;
+}
+
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+}
